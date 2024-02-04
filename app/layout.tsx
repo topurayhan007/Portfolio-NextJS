@@ -4,7 +4,8 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "Topu Rayhan",
-  description: "Porfolio of Topu Rayhan a Web developer based in Bangladesh",
+  description:
+    "Porfolio of Topu Rayhan, a Software Engineer / Web Developer / App Developer based in Bangladesh",
 };
 
 export default function RootLayout({
